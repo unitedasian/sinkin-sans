@@ -1,6 +1,6 @@
 <?php
 
-namespace UAM\Fonts\SinkinSans;
+namespace UAM\Font\SinkinSans;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
