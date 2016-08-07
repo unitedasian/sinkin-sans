@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Sinkin Sans Thin";
+    src: url("../fonts/sinkinsans_100thin/SinkinSans-100Thin-webfont.eot");
+    src: url("../fonts/sinkinsans_100thin/SinkinSans-100Thin-webfont.eot?#iefix") format("embedded-opentype"),
+         url("../fonts/sinkinsans_100thin/SinkinSans-100Thin-webfont.woff") format("woff"),
+         url("../fonts/sinkinsans_100thin/SinkinSans-100Thin-webfont.ttf") format("truetype"),
+         url("../fonts/sinkinsans_100thin/SinkinSans-100Thin-webfont.svg#sinkin_sans400_regular") format("svg");
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Sinkin Sans Thin";
+    src: url("../fonts/sinkinsans_100thinitalic/SinkinSans-100ThinItalic-webfont.eot");
+    src: url("../fonts/sinkinsans_100thinitalic/SinkinSans-100ThinItalic-webfont.eot?#iefix") format("embedded-opentype"),
+         url("../fonts/sinkinsans_100thinitalic/SinkinSans-100ThinItalic-webfont.woff") format("woff"),
+         url("../fonts/sinkinsans_100thinitalic/SinkinSans-100ThinItalic-webfont.ttf") format("truetype"),
+         url("../fonts/sinkinsans_100thinitalic/SinkinSans-100ThinItalic-webfont.svg#sinkin_sans400_regular") format("svg");
+    font-weight: 100;
+    font-style: italic;
+}

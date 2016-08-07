@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Sinkin Sans Light";
+    src: url("../fonts/sinkinsans_300light/SinkinSans-300Light-webfont.eot");
+    src: url("../fonts/sinkinsans_300light/SinkinSans-300Light-webfont.eot?#iefix") format("embedded-opentype"),
+         url("../fonts/sinkinsans_300light/SinkinSans-300Light-webfont.woff") format("woff"),
+         url("../fonts/sinkinsans_300light/SinkinSans-300Light-webfont.ttf") format("truetype"),
+         url("../fonts/sinkinsans_300light/SinkinSans-300Light-webfont.svg#sinkin_sans400_regular") format("svg");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Sinkin Sans Light";
+    src: url("../fonts/sinkinsans_300lightitalic/SinkinSans-300LightItalic-webfont.eot");
+    src: url("../fonts/sinkinsans_300lightitalic/SinkinSans-300LightItalic-webfont.eot?#iefix") format("embedded-opentype"),
+         url("../fonts/sinkinsans_300lightitalic/SinkinSans-300LightItalic-webfont.woff") format("woff"),
+         url("../fonts/sinkinsans_300lightitalic/SinkinSans-300LightItalic-webfont.ttf") format("truetype"),
+         url("../fonts/sinkinsans_300lightitalic/SinkinSans-300LightItalic-webfont.svg#sinkin_sans400_regular") format("svg");
+    font-weight: 300;
+    font-style: italic;
+}

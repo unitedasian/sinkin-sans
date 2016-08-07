@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Sinkin Sans ExtraBlack";
+    src: url("../fonts/sinkinsans_900xblack/SinkinSans-900XBlack-webfont.eot");
+    src: url("../fonts/sinkinsans_900xblack/SinkinSans-900XBlack-webfont.eot?#iefix") format("embedded-opentype"),
+         url("../fonts/sinkinsans_900xblack/SinkinSans-900XBlack-webfont.woff") format("woff"),
+         url("../fonts/sinkinsans_900xblack/SinkinSans-900XBlack-webfont.ttf") format("truetype"),
+         url("../fonts/sinkinsans_900xblack/SinkinSans-900XBlack-webfont.svg#sinkin_sans400_regular") format("svg");
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Sinkin Sans ExtraBlack";
+    src: url("../fonts/sinkinsans_900xblackitalic/SinkinSans-900XBlackItalic-webfont.eot");
+    src: url("../fonts/sinkinsans_900xblackitalic/SinkinSans-900XBlackItalic-webfont.eot?#iefix") format("embedded-opentype"),
+         url("../fonts/sinkinsans_900xblackitalic/SinkinSans-900XBlackItalic-webfont.woff") format("woff"),
+         url("../fonts/sinkinsans_900xblackitalic/SinkinSans-900XBlackItalic-webfont.ttf") format("truetype"),
+         url("../sfonts/inkinsans_900xblackitalic/SinkinSans-900XBlackItalic-webfont.svg#sinkin_sans400_regular") format("svg");
+    font-weight: 900;
+    font-style: italic;
+}

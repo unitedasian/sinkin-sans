@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Sinkin Sans Bold";
+    src: url("../fonts/sinkinsans_700bold/SinkinSans-700Bold-webfont.eot");
+    src: url("../fonts/sinkinsans_700bold/SinkinSans-700Bold-webfont.eot?#iefix") format("embedded-opentype"),
+         url("../fonts/sinkinsans_700bold/SinkinSans-700Bold-webfont.woff") format("woff"),
+         url("../fonts/sinkinsans_700bold/SinkinSans-700Bold-webfont.ttf") format("truetype"),
+         url("../fonts/sinkinsans_700bold/SinkinSans-700Bold-webfont.svg#sinkin_sans400_regular") format("svg");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Sinkin Sans Bold";
+    src: url("../fonts/sinkinsans_700bolditalic/SinkinSans-700BoldItalic-webfont.eot");
+    src: url("../fonts/sinkinsans_700bolditalic/SinkinSans-700BoldItalic-webfont.eot?#iefix") format("embedded-opentype"),
+         url("../fonts/sinkinsans_700bolditalic/SinkinSans-700BoldItalic-webfont.woff") format("woff"),
+         url("../fonts/sinkinsans_700bolditalic/SinkinSans-700BoldItalic-webfont.ttf") format("truetype"),
+         url("../fonts/sinkinsans_700bolditalic/SinkinSans-700BoldItalic-webfont.svg#sinkin_sans400_regular") format("svg");
+    font-weight: 700;
+    font-style: italic;
+}

@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Sinkin Sans SemiBold";
+    src: url("../fonts/sinkinsans_600semibold/SinkinSans-600SemiBold-webfont.eot");
+    src: url("../fonts/sinkinsans_600semibold/SinkinSans-600SemiBold-webfont.eot?#iefix") format("embedded-opentype"),
+         url("../fonts/sinkinsans_600semibold/SinkinSans-600SemiBold-webfont.woff") format("woff"),
+         url("../fonts/sinkinsans_600semibold/SinkinSans-600SemiBold-webfont.ttf") format("truetype"),
+         url("../fonts/sinkinsans_600semibold/SinkinSans-600SemiBold-webfont.svg#sinkin_sans400_regular") format("svg");
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Sinkin Sans SemiBold";
+    src: url("../fonts/sinkinsans_600semibolditalic/SinkinSans-600SemiBoldItalic-webfont.eot");
+    src: url("../fonts/sinkinsans_600semibolditalic/SinkinSans-600SemiBoldItalic-webfont.eot?#iefix") format("embedded-opentype"),
+         url("../fonts/sinkinsans_600semibolditalic/SinkinSans-600SemiBoldItalic-webfont.woff") format("woff"),
+         url("../fonts/sinkinsans_600semibolditalic/SinkinSans-600SemiBoldItalic-webfont.ttf") format("truetype"),
+         url("../fonts/sinkinsans_600semibolditalic/SinkinSans-600SemiBoldItalic-webfont.svg#sinkin_sans400_regular") format("svg");
+    font-weight: 600;
+    font-style: italic;
+}
