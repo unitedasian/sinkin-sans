@@ -1,5 +1,5 @@
 {
-	"name": "fonts/sinkin-sans",
+	"name": "unitedasian/sinkin-sans",
 	"type": "symfony-bundle",
 	"require": {
 		"symfony/http-kernel": "~2.8|~3.0"
