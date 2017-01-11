@@ -6,5 +6,6 @@
 	},
 	"autoload": {
 		"psr-4": { "UAM\\Font\\SinkinSans\\": "" }
-	}
+	},
+    "license": "Apache License 2.0",
 }
